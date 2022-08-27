@@ -1,6 +1,6 @@
-Kep a kantorrol
+Kép a Kántor-rol 🙂
 
-![alt tag](https://github.com/KantorGb/KantorGb/Kantor.jpg)
+![alt tag](https://github.com/KantorGb/KantorGb/blob/main/Kantor.jpg)
 
 
 ### Hi there 👋

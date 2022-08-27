@@ -1,3 +1,8 @@
+Kep a kantorrol
+
+![alt tag](https://github.com/KantorGb/KantorGb/Kantor.jpg)
+
+
 ### Hi there 👋
 
 <!--

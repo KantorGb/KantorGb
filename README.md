@@ -3,8 +3,6 @@ Kép a Kántor-rol 🙂
 ![alt tag](https://github.com/KantorGb/KantorGb/blob/main/Kantor.jpg)
 
 
-### Hi there 👋
-
 <!--
 **KantorGb/KantorGb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
